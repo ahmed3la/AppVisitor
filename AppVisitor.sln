@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppVisitor", "AppVisitor\AppVisitor.csproj", "{EF0CC9EA-1222-4B15-8581-96A2C2B00715}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF0CC9EA-1222-4B15-8581-96A2C2B00715}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF0CC9EA-1222-4B15-8581-96A2C2B00715}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF0CC9EA-1222-4B15-8581-96A2C2B00715}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF0CC9EA-1222-4B15-8581-96A2C2B00715}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A08AF785-C91C-4AFD-AE79-EF53A56DC64B}
+	EndGlobalSection
+EndGlobal
